@@ -7,7 +7,7 @@ All characters appearing in NSFW or Fetish content are 18 years of age or older
 
 Viewer discretion is advised
 
-只是我的小网站
+只是我的小站
 
 警告：限制级画廊内容（可能包含成人内容或恋物内容）绝对不适合未成年人或对此类内容感到不适的人士观看
 
@@ -15,7 +15,7 @@ Viewer discretion is advised
 
 敬请谨慎观看
 
-只係我個小網站
+只係我個小站
 
 警告：限制級畫廊內容（可能包括成人內容或戀物內容）絕對只適合成年人士或對呢類內容感到唔適合嘅人士觀看
 
