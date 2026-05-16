@@ -11,7 +11,6 @@ const sfwImages = [
 ];
 
 const nsfwImages = [
-    { url: 'images/nsfw/i_like_them_but_why_i_did_this.png', title: 'Why i did this for them', date: '2026-5-15' },
     { url: 'images/nsfw/trapped_in_crashout_latex_suit.png', title: 'Trapped in Crashout latex suit', date: '2026-04-03' },
     { url: 'images/nsfw/retrolio_is_ready.png', title: 'Retrolio is ready~', date: '2026-01-15' },
     { url: 'images/nsfw/doorts_head_is_detachable.png', title: 'Doorts head is detachable~', date: '2026-01-04' },
